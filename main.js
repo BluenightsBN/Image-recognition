@@ -44,7 +44,7 @@ classifier.classify(Img , gotresult);
 function gotresult(error , results) {
 
 if (error) {
-
+ 
 console.error(error);
 
 }
